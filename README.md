@@ -1,7 +1,7 @@
 # MODS-MINECRAFT
-Los mods son los archivos .jar 
-este documento no es necesario
-Los siguientes mods son obligatorios (solo si estas usando los shaders)
--fabric-api-0.119.6+1.21.5.jar
--iris-fabric-1.8.11+mc1.21.5.jar
--sodium-fabric-0.6.12+mc1.21.5.jar
+Para poder actualizar o agregar mods solo debe:
+-elimar todos los mods que tenga en la carpeta "minecraft/mods"
+-copiar y pegar los mods de la carpeta que descargo en "minecraft/mods"
+Para poder actulizar las mejoras visuales :
+-elimar todos los archivos de "minecraft/shaderpacks" 
+-copiar y pegar el archivo comprimido a "minecraft/shaderpacks" 
